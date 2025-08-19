@@ -1,0 +1,17 @@
+# 📈 Stock Analysis & Forecasting App
+
+This is a Streamlit web app for analyzing and forecasting stock prices.
+
+## 🚀 Features
+- Fetches live stock data from Yahoo Finance
+- Historical price visualization (line chart & candlestick)
+- Technical indicators (SMA, EMA, RSI, MACD)
+- ARIMA-based stock price forecasting
+- Sentiment analysis on recent stock news
+- Forecast visualization with candlestick chart
+- Downloadable historical data
+
+## 🛠️ How to Run Locally
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/stock-analysis-app.git
